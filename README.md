@@ -1,6 +1,14 @@
 ## Based buefy@0.9.4
 b-table-pagination 添加 b-pagination 的 order 属性, 前一页按钮可放在最前面
 
+```javascript
+import Vue from 'vue'
+import Buefy from '@emacle/buefy'
+import '@emacle/buefy/dist/buefy.css'
+
+Vue.use(Buefy)
+```
+
 ## 
 <p align="center">
     <a href="https://buefy.org">
