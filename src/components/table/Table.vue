@@ -26,6 +26,7 @@
                     :per-page="perPage"
                     :paginated="paginated"
                     :rounded="paginationRounded"
+                    :order="paginationOrder"
                     :icon-pack="iconPack"
                     :total="newDataTotal"
                     :current-page.sync="newCurrentPage"
